@@ -14,4 +14,9 @@
 
 ## 🌱 Always learning, experimenting, and building with each project.
 
+---
+
+## 🚧 Current Projects:
+- 🍔 **Marvel-Themed Restaurant**: A fun and interactive restaurant management system that brings Marvel superheroes into the dining experience with a custom menu, themed content, and engaging features.
+
 Feel free to check out my repositories, leave feedback, or collaborate!
