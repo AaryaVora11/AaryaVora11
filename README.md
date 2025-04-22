@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Aarya Vora!
 
-<!--
-**AaryaVora11/AaryaVora11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student passionate about backend web development.  
+💻 Currently diving deep into **PHP** to create dynamic and scalable web applications.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
+- **Backend**: PHP, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on:
+- Building full-stack projects to enhance my skills.  
+- Continuously learning new tools and frameworks to improve my development process.  
+- Focused on backend development with PHP and working on scalable web solutions.
+
+## 🌱 Always learning, experimenting, and building with each project.
+
+Feel free to check out my repositories, leave feedback, or collaborate!
