@@ -1,22 +1,58 @@
-# 👋 Hi, I'm Aarya Vora!
+# 👋 Hello, I'm Aarya Vora!
 
-🎓 I'm a Computer Engineering student passionate about backend web development.  
-💻 Currently diving deep into **PHP** to create dynamic and scalable web applications.  
-
-## 🛠️ Tech Stack:
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
-- **Backend**: PHP, MySQL  
-
-## 🚀 What I'm working on:
-- Building full-stack projects to enhance my skills.  
-- Continuously learning new tools and frameworks to improve my development process.  
-- Focused on backend development with PHP and working on scalable web solutions.
-
-## 🌱 Always learning, experimenting, and building with each project.
+🎓 A passionate **Computer Engineering student** focused on **backend web development**.  
+💻 Currently exploring the depths of **PHP** to build dynamic and scalable web applications.
 
 ---
 
-## 🚧 Current Projects:
-- 🍔 **Marvel-Themed Restaurant**: A fun and interactive restaurant management system that brings Marvel superheroes into the dining experience with a custom menu, themed content, and engaging features.
+## 🚀 What I'm Working On
+- Building **full-stack projects** to strengthen practical development skills.
+- Continuously learning new tools and frameworks to enhance development workflow.
+- Specializing in **backend development with PHP**, and creating **scalable web solutions**.
+- Currently crafting a themed system with interactive features and user-focused design.
 
-Feel free to check out my repositories, leave feedback, or collaborate!
+---
+
+## 🍽️ Featured Project: Marvel-Themed Restaurant
+
+> A fun and interactive **restaurant management system** inspired by the Marvel Universe!  
+> Features:
+- 🦸‍♂️ Themed superhero content
+- 📋 Custom menus and user-friendly UI
+- 🛒 Cart system and admin dashboard  
+> *Built using HTML, CSS, Bootstrap, PHP, and MySQL.*
+
+🔗 [Visit Repository](#) <!-- Replace with actual repo link -->
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+
+**Backend & Database:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+---
+
+## 🌱 Learning Journey
+- Always **learning**, **experimenting**, and **building**.
+- Actively improving my understanding of **full-stack architecture**.
+- Embracing every project as a learning opportunity.
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+Feel free to:
+- ⭐ Check out my repositories
+- 🛠️ Suggest improvements
+- 🤝 Collaborate on open-source or academic projects
+
+> 💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
